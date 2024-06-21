@@ -47,5 +47,4 @@ php artisan migrate
 Ejecutar el Servidor de Desarrollo: 
 php artisan serve
 
-y con todo este procedimiento el crud de libros y autores estara listo.
 
