@@ -25,7 +25,7 @@ $table->string('apellidoMaterno');
 $table->string('estado');
 $table->timestamps();
 
-## Tabla Libro
+## Tabla Libro:
 php artisan make:migration create_autor_table --create=libro
 
 $table->id('idLibro');
